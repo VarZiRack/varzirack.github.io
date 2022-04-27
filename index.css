@@ -12,8 +12,8 @@
 }
 #box1 {
     font-family: 'SDSamliphopangche_Outline';
-    position: fixed;z-index: 15%;
-    font-size: 750%;
+    position: fixed;z-index: 15;
+    font-size: 670%;
     left: 69%;
     top: 2.5%;
     width: 33%;
@@ -21,18 +21,18 @@
 }
 #box2 {
     font-family: 'DungGeunMo';
-    font-size: 470%;
+    font-size: 450%;
     position: fixed;z-index: 14;
-    left: 71%;
-    top: 17%;
+    left: 70%;
+    top: 15%;
     width: 30%;
 }
 .box3 {
     font-family: 'DungGeunMo';
     font-size: 240%;
     position: fixed;z-index: 13;
-    left: 72.7%;
-    top: 27%;
+    left: 70%;
+    top: 23%;
     line-height: 250%;
     width: 60%;
 }
@@ -136,9 +136,9 @@
 #box14 {
     font-family: 'DungGeunMo';
     position: fixed;z-index: 2;
-    font-size: 252%;
-    left: 72.8%;
-    top: 77%;
+    font-size: 230%;
+    left: 83%;
+    top: 83%;
     width: 30%;
 }
 #box15 {
